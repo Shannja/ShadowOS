@@ -22,4 +22,4 @@ $(call inherit-product-if-exists, vendor/samsung/gtasliteltecs/device-vendor-gta
 # Add any required packages for the ShadowOS build
 PRODUCT_PACKAGES += \
     ShadowOSLauncher \
-    ShadowOSWallpapers
+    ShadowOSWallpapers 

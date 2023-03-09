@@ -8,3 +8,4 @@ PRODUCT_MAKEFILES := \
 
 COMMON_LUNCH_CHOICES := \
 	device-gtasliteltecs-userdebug
+ 
